@@ -3,7 +3,7 @@ package main
 import (
 	"net"
 
-	"adventune/the-bad-webserver/server"
+	"tbws/server"
 )
 
 func main() {
